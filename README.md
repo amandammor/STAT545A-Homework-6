@@ -7,10 +7,10 @@ How to replicate my analysis.
 * Download the following files.
   - Input data: gapminderDataFiveYear.txt
   - R scripts: 01_reordersortorigdata.R and 02_linregressnewdata.R
-  - Master script: makefile.R
-* Start a new RStudio session and open makefile.R. 
+  - Master script: makefile.R 
+* Start a new RStudio session and open makefile.R.
 * After successfully running the pipeline, the following files should be created:
-  - gapminderDataBestWorst.txt
+  - gapminderDataBestWorst.txt  
   - gapminderDataBestWorstCoefs.txt
   - gapminderDataReorderedCont.txt
   - gapminderDataReorderedContCoefs.txt
