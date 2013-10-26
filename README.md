@@ -15,7 +15,7 @@ How to replicate my analysis.
   - [`gapminderDataReorderedCont.txt`](https://raw.github.com/amandammor/STAT545A-Homework-6/master/gapminderDataReorderedCont.txt)
   - [`gapminderDataReorderedContCoefs.txt`](https://raw.github.com/amandammor/STAT545A-Homework-6/master/gapminderDataReorderedContCoefs.txt)
   - [`barplot_meanGDPpercap.png`](https://raw.github.com/amandammor/STAT545A-Homework-6/master/Figures/barplot_meanGDPpercap.png)
-  - barplot_meanlifeExp.png
+  - [`barplot_meanlifeExp.png`](https://raw.github.com/amandammor/STAT545A-Homework-6/master/Figures/barplot_meanlifeExp.png)
   - BestWorstInterceptsAfrica.png
   - BestWorstInterceptsAmericas.png
   - BestWorstInterceptsAsia.png
