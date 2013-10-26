@@ -16,10 +16,10 @@ How to replicate my analysis.
   - [`gapminderDataReorderedContCoefs.txt`](https://raw.github.com/amandammor/STAT545A-Homework-6/master/gapminderDataReorderedContCoefs.txt)
   - [`barplot_meanGDPpercap.png`](https://raw.github.com/amandammor/STAT545A-Homework-6/master/Figures/barplot_meanGDPpercap.png)
   - [`barplot_meanlifeExp.png`](https://raw.github.com/amandammor/STAT545A-Homework-6/master/Figures/barplot_meanlifeExp.png)
-  - BestWorstInterceptsAfrica.png
-  - BestWorstInterceptsAmericas.png
-  - BestWorstInterceptsAsia.png
-  - BestWorstInterceptsEurope.png
-  - lineplot_meanGDPpercapOverTime.png
-  - lineplot_meanlifeExpOverTime.png
-  - scatterplot_lifeExpGDPpercap.png
+  - [`BestWorstInterceptsAfrica.png`](https://raw.github.com/amandammor/STAT545A-Homework-6/master/Figures/BestWorstInterceptsAfrica.png)
+  - [`BestWorstInterceptsAmericas.png`](https://raw.github.com/amandammor/STAT545A-Homework-6/master/Figures/BestWorstInterceptsAmericas.png)
+  - [`BestWorstInterceptsAsia.png`](https://raw.github.com/amandammor/STAT545A-Homework-6/master/Figures/BestWorstInterceptsAsia.png)
+  - [`BestWorstInterceptsEurope.png`](https://raw.github.com/amandammor/STAT545A-Homework-6/master/Figures/BestWorstInterceptsEurope.png)
+  - [`lineplot_meanGDPpercapOverTime.png`](https://raw.github.com/amandammor/STAT545A-Homework-6/master/Figures/lineplot_meanGDPpercapOverTime.png)
+  - [`lineplot_meanlifeExpOverTime.png`](https://raw.github.com/amandammor/STAT545A-Homework-6/master/Figures/lineplot_meanlifeExpOverTime.png)
+  - [`scatterplot_lifeExpGDPpercap.png'](https://raw.github.com/amandammor/STAT545A-Homework-6/master/Figures/scatterplot_lifeExpGDPpercap.png)
