@@ -22,4 +22,4 @@ How to replicate my analysis.
   - [`BestWorstInterceptsEurope.png`](https://raw.github.com/amandammor/STAT545A-Homework-6/master/Figures/BestWorstInterceptsEurope.png)
   - [`lineplot_meanGDPpercapOverTime.png`](https://raw.github.com/amandammor/STAT545A-Homework-6/master/Figures/lineplot_meanGDPpercapOverTime.png)
   - [`lineplot_meanlifeExpOverTime.png`](https://raw.github.com/amandammor/STAT545A-Homework-6/master/Figures/lineplot_meanlifeExpOverTime.png)
-  - [`scatterplot_lifeExpGDPpercap.png'](https://raw.github.com/amandammor/STAT545A-Homework-6/master/Figures/scatterplot_lifeExpGDPpercap.png)
+  - [`scatterplot_lifeExpGDPpercap.png`](https://raw.github.com/amandammor/STAT545A-Homework-6/master/Figures/scatterplot_lifeExpGDPpercap.png)
