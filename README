@@ -14,5 +14,14 @@ How to replicate my analysis.
   - gapminderDataBestWorstCoefs.txt
   - gapminderDataReorderedCont.txt
   - gapminderDataReorderedContCoefs.txt
-  - 
+  - barplot_meanGDPpercap.png
+  - barplot_meanlifeExp.png
+  - BestWorstInterceptsAfrica.png
+  - BestWorstInterceptsAmericas.png
+  - BestWorstInterceptsAsia.png
+  - BestWorstInterceptsEurope.png
+  - lineplot_meanGDPpercapOverTime.png
+  - lineplot_meanlifeExpOverTime.png
+  - scatterplot_lifeExpGDPpercap.png
+  
 
