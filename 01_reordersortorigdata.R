@@ -1,6 +1,6 @@
-========================
-Homework #6 R Script 1
-========================
+##========================
+##Homework #6 R Script 1
+##========================
   
 ## Import the Gapminder data
 gDat <- read.delim("gapminderDataFiveYear.txt")
